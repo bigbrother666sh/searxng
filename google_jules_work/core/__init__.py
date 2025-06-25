@@ -1,0 +1,1 @@
+# Core utilities package for simplified SearXNG engines 
